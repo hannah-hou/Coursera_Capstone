@@ -1,0 +1,15 @@
+Open terminal
+git
+
+
+
+
+git status
+git add/rm <filename>
+git commit -m "messages u want to add"
+git pull
+git push
+git log
+q
+git reset --hard HEAD~1
+git push --force
